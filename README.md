@@ -1,6 +1,6 @@
 # Ex-05-Creating-a-Warehouse-Application-in-SalesForce.com
-## Name : SESHAN J
-## Reg NO : 212224220092
+## Name : ROHITH KUMAR S
+## Reg NO : 212224240153
 ## AIM:
 To create a warehouse application in salesforce.com
 
